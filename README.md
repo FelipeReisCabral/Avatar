@@ -1,3 +1,4 @@
+![Sem Título-1](https://github.com/user-attachments/assets/b8d5e450-8365-4f43-8506-924d9d89c61d)
 ## Consumindo a API do Avatar: The Last Airbender (7daysofcode)
 
 **Descrição:**
